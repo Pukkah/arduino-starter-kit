@@ -6,8 +6,6 @@ const int potPin = A0;
 int potVal;
 int angle;
 
-
-
 void setup() {
   myServo.attach(9);
 }
